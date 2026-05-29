@@ -1,2 +1,2 @@
 # face_mask_detection
-Breast cancer classification using deep learning and neural networks.
+Deep learning based face mask detection system using computer vision and image classification techniques for real-time safety monitoring.
